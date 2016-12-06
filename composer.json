@@ -34,10 +34,5 @@
             "Genemu\\Bundle\\FormBundle": ""
         }
     },
-    "target-dir": "Genemu/Bundle/FormBundle",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "3.0-dev"
-        }
-    }
+    "target-dir": "Genemu/Bundle/FormBundle"
 }
