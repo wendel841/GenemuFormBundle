@@ -20,8 +20,8 @@
     ],
     "require": {
         "php": ">=7.1",
-        "symfony/framework-bundle": "~3",
-        "symfony/form": "~3"
+        "symfony/framework-bundle": "~3.1",
+        "symfony/form": "~3.1"
     },
     "suggest": {
         "symfony/twig-bridge": "For integration into Twig templates",
